@@ -8,6 +8,10 @@ sites:
     url: https://simpleedit.github.io
   - name: Feedback portal
     url: https://simpleedit.canny.io
+    
+assignees:
+  - thecoder876
+  - wgyt
 
 status-website:
   theme: dark
