@@ -20,7 +20,7 @@ status-website:
   name: SimpleEdit Status
   navbar:
     - title: Status
-      href: /status
+      href: https://simpleedit.github.io/status
     - title: Website
       href: https://simpleedit.github.io
     - title: Docs
