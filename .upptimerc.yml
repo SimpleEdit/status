@@ -19,7 +19,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/SimpleEdit/simpleedit.github.io/main/assets/LOGO.png
   name: SimpleEdit Status
   navbar:
-    - title: Status
+    - title: Status Home
       href: https://simpleedit.github.io/status/
     - title: Website
       href: https://simpleedit.github.io
