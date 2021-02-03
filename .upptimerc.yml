@@ -14,13 +14,13 @@ assignees:
   - wgyt
 
 status-website:
-  theme: ocean
+  theme: dark
   baseUrl: /status
   logoUrl: https://raw.githubusercontent.com/SimpleEdit/simpleedit.github.io/main/assets/LOGO.png
   name: SimpleEdit Status
   navbar:
     - title: Status
-      href: https://simpleedit.github.io/status
+      href: https://simpleedit.github.io/status/
     - title: Website
       href: https://simpleedit.github.io
     - title: Docs
