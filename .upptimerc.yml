@@ -15,6 +15,7 @@ status-website:
   name: SimpleEdit Status
   introTitle: "Check the status of SimpleEdit services"
   introMessage: Easily check if a service is down
+  theme: dark
   navbar:
     - title: Status
       href: /
