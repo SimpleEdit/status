@@ -10,12 +10,10 @@ sites:
     url: https://simpleedit.canny.io
 
 status-website:
+  theme: dark
   baseUrl: /status
   logoUrl: https://raw.githubusercontent.com/SimpleEdit/simpleedit.github.io/main/assets/LOGO.png
   name: SimpleEdit Status
-  introTitle: "Check the status of SimpleEdit services"
-  introMessage: Easily check if a service is down
-  theme: dark
   navbar:
     - title: Status
       href: /
