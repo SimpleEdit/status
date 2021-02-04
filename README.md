@@ -26,4 +26,4 @@ This repository contains the open-source uptime monitor and status page for [Sim
 
 - Powered by: [Upptime](https://github.com/upptime/upptime)
 - Code: [MIT](./LICENSE) © [SimpleEdit](https://simpleedit.github.io)
-- Data in the `./history` directory: [Open Database License](https://opendatacommons.org/licenses/odbl/1-0/)
+- Data in the `history` folder: [Open Database License](https://opendatacommons.org/licenses/odbl/1-0/)
