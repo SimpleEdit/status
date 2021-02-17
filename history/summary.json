@@ -22,18 +22,20 @@
     "url": "https://simpleedit.github.io",
     "icon": "https://favicons.githubusercontent.com/simpleedit.github.io",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 119,
-    "timeDay": 313,
-    "timeWeek": 122,
-    "timeMonth": 119,
-    "timeYear": 119,
-    "dailyMinutesDown": {}
+    "time": 117,
+    "timeDay": 202,
+    "timeWeek": 118,
+    "timeMonth": 117,
+    "timeYear": 117,
+    "dailyMinutesDown": {
+      "2021-02-17": 0
+    }
   },
   {
     "name": "Feedback portal",
