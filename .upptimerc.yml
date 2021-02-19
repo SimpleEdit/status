@@ -17,6 +17,7 @@ status-website:
   theme: dark
   logoUrl: https://raw.githubusercontent.com/SimpleEdit/simpleedit.github.io/main/assets/LOGO.png
   name: SimpleEdit Status
+  baseUrl: /status
   navbar:
     - title: Website
       href: https://simpleedit.github.io
