@@ -8,6 +8,8 @@ sites:
     url: https://simpleedit.tk
   - name: Feedback portal
     url: https://simpleedit.canny.io
+  - name: Docs
+    url: https://simpleedit.gitbook.io/docs
     
 assignees:
   - thecoder876
