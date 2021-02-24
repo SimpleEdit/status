@@ -1,6 +1,6 @@
 # [📈 Live Status](https://SimpleEdit.github.io/status): <!--live status--> **🟩 All systems operational**
 
-This repository contains the open-source uptime monitor and status page for [SimpleEdit](https://simpleedit.github.io), powered by [Upptime](https://github.com/upptime/upptime).
+This is the repository for the SimpleEdit status page.
 
 [![Uptime CI](https://github.com/SimpleEdit/status/workflows/Uptime%20CI/badge.svg)](https://github.com/upptime/upptime/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/SimpleEdit/status/workflows/Response%20Time%20CI/badge.svg)](https://github.com/upptime/upptime/actions?query=workflow%3A%22Response+Time+CI%22)
