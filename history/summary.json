@@ -4,7 +4,7 @@
     "url": "https://editor.simpleedit.repl.co",
     "icon": "https://favicons.githubusercontent.com/editor.simpleedit.repl.co",
     "slug": "editor-web-app",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 3666,
     "timeMonth": 1050,
     "timeYear": 724,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-03-12": 0
+    }
   },
   {
     "name": "Website",
@@ -23,14 +25,14 @@
     "icon": "https://favicons.githubusercontent.com/simpleedit.tk",
     "slug": "website",
     "status": "down",
-    "uptime": "98.08%",
+    "uptime": "98.12%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.70%",
-    "uptimeYear": "98.08%",
+    "uptimeYear": "98.12%",
     "time": 202,
     "timeDay": 207,
-    "timeWeek": 236,
+    "timeWeek": 229,
     "timeMonth": 245,
     "timeYear": 202,
     "dailyMinutesDown": {
