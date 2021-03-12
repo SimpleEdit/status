@@ -4,19 +4,19 @@
     "url": "https://editor.simpleedit.repl.co",
     "icon": "https://favicons.githubusercontent.com/editor.simpleedit.repl.co",
     "slug": "editor-web-app",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 724,
-    "timeDay": 24466,
-    "timeWeek": 3666,
-    "timeMonth": 1050,
-    "timeYear": 724,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.20%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
+    "time": 713,
+    "timeDay": 12319,
+    "timeWeek": 3230,
+    "timeMonth": 1023,
+    "timeYear": 713,
     "dailyMinutesDown": {
-      "2021-03-12": 0
+      "2021-03-12": 12
     }
   },
   {
