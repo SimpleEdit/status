@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.98%",
-    "time": 589,
-    "timeDay": 171,
-    "timeWeek": 205,
-    "timeMonth": 1027,
-    "timeYear": 589,
+    "time": 583,
+    "timeDay": 196,
+    "timeWeek": 187,
+    "timeMonth": 1028,
+    "timeYear": 583,
     "dailyMinutesDown": {
       "2021-03-12": 12
     }
@@ -25,15 +25,15 @@
     "icon": "https://favicons.githubusercontent.com/simpleedit.tk",
     "slug": "website",
     "status": "down",
-    "uptime": "98.64%",
+    "uptime": "98.66%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.64%",
+    "uptimeYear": "98.66%",
     "time": 212,
     "timeDay": 0,
     "timeWeek": 538,
-    "timeMonth": 276,
+    "timeMonth": 249,
     "timeYear": 212,
     "dailyMinutesDown": {
       "2021-02-18": 763,
@@ -51,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 271,
-    "timeDay": 141,
-    "timeWeek": 252,
+    "time": 270,
+    "timeDay": 166,
+    "timeWeek": 259,
     "timeMonth": 198,
-    "timeYear": 271,
+    "timeYear": 270,
     "dailyMinutesDown": {}
   },
   {
@@ -69,11 +69,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 636,
-    "timeDay": 273,
-    "timeWeek": 485,
-    "timeMonth": 360,
-    "timeYear": 636,
+    "time": 626,
+    "timeDay": 267,
+    "timeWeek": 487,
+    "timeMonth": 366,
+    "timeYear": 626,
     "dailyMinutesDown": {}
   }
 ]
