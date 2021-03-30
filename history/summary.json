@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
-    "time": 578,
-    "timeDay": 242,
-    "timeWeek": 201,
-    "timeMonth": 1001,
-    "timeYear": 578,
+    "time": 573,
+    "timeDay": 204,
+    "timeWeek": 214,
+    "timeMonth": 976,
+    "timeYear": 573,
     "dailyMinutesDown": {
       "2021-03-12": 12
     }
@@ -25,11 +25,11 @@
     "icon": "https://favicons.githubusercontent.com/simpleedit.tk",
     "slug": "website",
     "status": "down",
-    "uptime": "98.69%",
+    "uptime": "98.71%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.69%",
+    "uptimeYear": "98.71%",
     "time": 212,
     "timeDay": 0,
     "timeWeek": 0,
@@ -46,17 +46,21 @@
     "icon": "https://favicons.githubusercontent.com/simpleedit.canny.io",
     "slug": "feedback-portal",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "98.70%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "98.70%",
     "time": 268,
-    "timeDay": 179,
-    "timeWeek": 238,
-    "timeMonth": 198,
+    "timeDay": 289,
+    "timeWeek": 240,
+    "timeMonth": 201,
     "timeYear": 268,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-03-12": 12,
+      "2021-02-18": 763,
+      "2021-02-17": 245
+    }
   },
   {
     "name": "Docs",
@@ -64,16 +68,20 @@
     "icon": "https://favicons.githubusercontent.com/simpleedit.gitbook.io",
     "slug": "docs",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "98.01%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 615,
-    "timeDay": 248,
-    "timeWeek": 458,
-    "timeMonth": 362,
-    "timeYear": 615,
-    "dailyMinutesDown": {}
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "98.01%",
+    "time": 610,
+    "timeDay": 422,
+    "timeWeek": 399,
+    "timeMonth": 364,
+    "timeYear": 610,
+    "dailyMinutesDown": {
+      "2021-03-12": 12,
+      "2021-02-18": 763,
+      "2021-02-17": 245
+    }
   }
 ]
