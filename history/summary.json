@@ -70,19 +70,19 @@
     "url": "https://simpleedit.gitbook.io/docs",
     "icon": "https://favicons.githubusercontent.com/simpleedit.gitbook.io",
     "slug": "docs",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 448,
-    "timeDay": 244,
-    "timeWeek": 261,
-    "timeMonth": 336,
-    "timeYear": 448,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.20%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.99%",
+    "time": 447,
+    "timeDay": 269,
+    "timeWeek": 267,
+    "timeMonth": 335,
+    "timeYear": 447,
     "dailyMinutesDown": {
-      "2021-07-07": 0
+      "2021-07-07": 26
     }
   }
 ]
